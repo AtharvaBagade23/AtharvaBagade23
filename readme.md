@@ -2,7 +2,7 @@
 
 <!-- Banner or Custom Image (Optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00B8D4&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Atharva+Bagade!;Computer+Engineering+Student+%7C+Developer+%7C+Tech+Enthusiast;Passionate+about+Tech%2C+FinTech%2C+Hackathons+%26+AI%2FML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00B8D4&center=true&width=700&lines=Hi+👋,+I'm+Atharva+Bagade!;Computer+Engineering+Student+|+Developer+|+Tech+Enthusiast;Passionate+about+Tech,+FinTech,+Hackathons+%26+AI/ML" alt="Typing SVG" />
 </p>
 
 ---
