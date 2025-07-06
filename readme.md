@@ -2,8 +2,9 @@
 
 <!-- Banner or Custom Image (Optional) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00B8D4&center=true&width=700&lines=Hi+👋,+I'm+Atharva+Bagade!;Computer+Engineering+Student+|+Developer+|+Tech+Enthusiast;Passionate+about+Tech,+FinTech,+Hackathons+%26+AI/ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00B8D4&center=true&width=700&lines=Hi+👋,+I'm+Atharva+Bagade!;Computer+Engineering+Student;Developer+%7C+Tech+Enthusiast;Passionate+about+Tech,+FinTech,+Hackathons+%26+AI%2FML" alt="Typing SVG" />
 </p>
+
 
 ---
 
