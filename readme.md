@@ -16,7 +16,7 @@
 - 🛠️ Building solutions at the intersection of **tech + finance + impact**
 - 🧠 Actively working on:
   - 🧾 AI-Driven Insurance Platform – *Insure*
-  - 🛡️ Hardware Root of Trust – *Smart India Hackathon Finalist*
+  - 🛡️ Hardware Root of Trust – *Smart India Hackathon Runner Up*
   - 🏘️ Apex – Society Management System
 - 💬 Ask me about: `JavaScript`, `React`, `Firebase`, `Python`, `APIs`, `Hackathons`
 - 📫 Email: [abagade26@gmail.com](mailto:abagade26@gmail.com)
