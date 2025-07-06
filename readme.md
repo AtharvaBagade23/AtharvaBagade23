@@ -19,7 +19,6 @@
   - 🛡️ Hardware Root of Trust – *Smart India Hackathon Finalist*
   - 🏘️ Apex – Society Management System
 - 💬 Ask me about: `JavaScript`, `React`, `Firebase`, `Python`, `APIs`, `Hackathons`
-- 📣 Mentor for juniors in tech events & **Smart India Hackathon**
 - 📫 Email: [abagade26@gmail.com](mailto:abagade26@gmail.com)
 
 ---
